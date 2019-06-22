@@ -24,11 +24,9 @@ Pygments==2.2.0
 pytz==2018.5
 simplegeneric==0.8.1
 six==1.11.0
-SQLAlchemy==1.1.15
 SQLAlchemy==1.2.10
 traitlets==4.3.2
 wcwidth==0.1.7
-Werkzeug==0.12.2
 Werkzeug==0.14.1
 gunicorn==19.7.1
 
